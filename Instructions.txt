@@ -1,0 +1,17 @@
+-------English-------
+Execute files 1 and 2 first, and then run file 3. The first two files should only be run the first time if there were no problems. Then you only need to run the 3_run.bat file next time
+
+Recommendations:
+
+-Keep the watermark image in the same folder as the video.
+-The image should be a transparent PNG.
+
+
+------Español-------
+
+Ejecuta primero los archivos 1 y 2, y luego ejecuta el archivo 3. Los dos primeros archivos solo deben ejecutarse la primera vez si no hubo problemas. Entonces solo ejecuta el archivo 3_run.bat las siguientes ocasiones
+
+Recomendaciones:
+
+-Mantén la imagen de la marca de agua en la misma carpeta que el video.
+-La imagen debe ser un PNG transparente.
